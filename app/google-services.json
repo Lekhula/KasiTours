@@ -1,0 +1,55 @@
+{
+  "project_info": {
+    "project_number": "896508060103",
+    "firebase_url": "https://kasitours-c6166.firebaseio.com",
+    "project_id": "kasitours-c6166",
+    "storage_bucket": "kasitours-c6166.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:896508060103:android:357dce12f5301df1",
+        "android_client_info": {
+          "package_name": "com.pabi.kasitours"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "896508060103-ijjeqvo25c70qrkdgc0l4llr3oeshqhr.apps.googleusercontent.com",
+          "client_type": 1,
+          "android_info": {
+            "package_name": "com.pabi.kasitours",
+            "certificate_hash": "04634c767049f0adde942a2bf060196cb566e3e5"
+          }
+        },
+        {
+          "client_id": "896508060103-dq0rmuu27ac9q38ggsuib02fu71q83hv.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyDCFa9XzJUaxAmjFgLjYuTA-hmeo17KVjw"
+        }
+      ],
+      "services": {
+        "analytics_service": {
+          "status": 1
+        },
+        "appinvite_service": {
+          "status": 2,
+          "other_platform_oauth_client": [
+            {
+              "client_id": "896508060103-dq0rmuu27ac9q38ggsuib02fu71q83hv.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        },
+        "ads_service": {
+          "status": 2
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
